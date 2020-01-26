@@ -1,0 +1,10 @@
+10591:  Designing a global name service
+1173748:  Reflective program generation with patterns
+153386:  Adaptive feedback techniques for synchronized multimedia retrieval over integrated networks
+562353:  Operating System Concepts, 4th Ed.
+822430:  Operating System Directions for the Next Millennium
+1137291:  Can We Make Operating Systems Reliable and Secure?
+1298487:  The Chubby lock service for loosely-coupled distributed systems
+263175:  A hierarchical fair service curve algorithm for link-sharing, real-time and priority services
+808449:  On attaining reliable software for a secure operating system
+850712:  Removing backing store administration from the CAP operating system
