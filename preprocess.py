@@ -38,16 +38,16 @@ def remove_apostrophe(data):
     return np.char.replace(data, "'", "")
 
 def stemming(data):
-    stemmer= PorterStemmer()
+    stemmer= PorterStemmer() #NLTK 
     
-    tokens = word_tokenize(str(data))
+    tokens = word_tokenize(str(data)) #NLTK
     new_text = ""
     for w in tokens:
-        new_text = new_text + " " + stemmer.stem(w)
+        new_text = new_text + " " + stemmer.stem(w) #NLTK
     return new_text
 
 def convert_numbers(data):
-    tokens = word_tokenize(str(data))
+    tokens = word_tokenize(str(data)) #NLTK function
     new_text = ""
     for w in tokens:
         try:
